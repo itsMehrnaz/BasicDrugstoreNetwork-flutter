@@ -1,4 +1,4 @@
-## 🚀 Features
+##  Features
 - Add and view doctors
 - Create prescriptions for each doctor
 - Save data locally using Hive
