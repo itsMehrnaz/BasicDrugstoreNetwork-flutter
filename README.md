@@ -14,7 +14,7 @@ Before running the project, make sure you have installed:
 
 **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/doctor-prescription-app.git
+   git clone https://github.com/itsMehrnaz/doctor-prescription-app.git
    cd doctor-prescription-app
 ```
 
